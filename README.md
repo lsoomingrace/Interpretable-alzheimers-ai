@@ -24,6 +24,7 @@ Although XGBoost achieved the highest accuracy, Random Forest was used for furth
 ## Interactive Demo
 
 A simplified Random Forest model using five selected features was developed for an interactive Streamlit application:
+https://interpretable-alzheimers-ai-demo.streamlit.app/
 
 **MMSE · Functional Assessment · ADL · Memory Complaints · Behavioral Problems**
 
